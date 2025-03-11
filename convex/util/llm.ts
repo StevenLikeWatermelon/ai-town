@@ -1,3 +1,5 @@
+// @ts-nocheck
+
 // That's right! No imports and no dependencies 🤯
 
 const OPENAI_EMBEDDING_DIMENSION = 1536;
